@@ -1,0 +1,14 @@
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\obj\Debug\net8.0\Task Management Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\obj\Debug\net8.0\Task Management Application.AssemblyInfoInputs.cache
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\obj\Debug\net8.0\Task Management Application.AssemblyInfo.cs
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\obj\Debug\net8.0\Task Management Application.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\bin\Debug\net8.0\Task Management Application.exe
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\bin\Debug\net8.0\Task Management Application.deps.json
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\bin\Debug\net8.0\Task Management Application.runtimeconfig.json
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\bin\Debug\net8.0\Task Management Application.dll
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\bin\Debug\net8.0\Task Management Application.pdb
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\obj\Debug\net8.0\Task Management Application.dll
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\obj\Debug\net8.0\refint\Task Management Application.dll
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\obj\Debug\net8.0\Task Management Application.pdb
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\obj\Debug\net8.0\Task Management Application.genruntimeconfig.cache
+C:\Users\Ahmad\source\repos\Task Management Application\Task Management Application\obj\Debug\net8.0\ref\Task Management Application.dll
